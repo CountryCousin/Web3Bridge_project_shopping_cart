@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Fender Stratocaster",
+        "price": 1000.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Fender Precision Bass",
+        "price": 1200.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "The National Style O",
+        "price": 1200.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Maton EM-TE",
+        "price": 2200.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fender Telecaster ",
+        "price": 1880.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Martin D-45",
+        "price": 320.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Gibson ES-175",
+        "price": 1500.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "1969 José Ramírez 1a “AM”",
+        "price": 320.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Gibson Lucille”",
+        "price": 360.99,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "The TRB JP2”",
+        "price": 380.99,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "The Twang Machine”",
+        "price": 390.99,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Martin LX1E”",
+        "price": 390.99,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpeg" } } }
+      }
+    }
+  ]
+}
